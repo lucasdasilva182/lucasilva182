@@ -12,11 +12,11 @@
 
 📚 Sempre em busca de novos conhecimentos.
 
-📤 Objetivos: 
+📤 Objetivos: <br />
 
-  • Aprimorar minhas habilidades a cada dia;
+&nbsp;&nbsp;• Aprimorar minhas habilidades a cada dia;
 
-  • Aprimorar em Desenvolvimento Back-end;
+&nbsp;&nbsp;• Aprimorar em Desenvolvimento Back-end;
 
 <br />
 

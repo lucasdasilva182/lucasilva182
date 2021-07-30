@@ -20,7 +20,7 @@
 
 <br />
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/lucasilva182) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilva182/)
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/lucasilva182)(github.com/lucasilva182) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilva182/)(https://www.linkedin.com/in/lucassilva182/)
 <br /><br />
 
 [![lucasilva182 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilva182)](https://github.com/lucasilva182/github-readme-stats) 

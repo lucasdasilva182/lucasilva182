@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**lucasilva182/lucasilva182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me chamo Lucas Silva!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+ 
+💻 Front-End Developer!
+
+🏡 Brazil.
+
+📚 Sempre em busca de novos conhecimentos.
+
+📤 Objetivos: 
+
+  • Aprimorar minhas habilidades a cada dia;
+
+  • Aprimorar em Desenvolvimento Back-end;
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/lucasilva182)]
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilva182/)]
+
+
+[![lucasilva182 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilva182)](https://github.com/lucasilva182/github-readme-stats)
+
+# Tecnologias 
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+
+
+- Obrigado pela visita! 👽

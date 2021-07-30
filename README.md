@@ -23,7 +23,7 @@
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/lucasilva182) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilva182/)
 
 
-[![lucasilva182 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilva182)](https://github.com/lucasilva182/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lucasilva182=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![lucasilva182 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilva182)](https://github.com/lucasilva182/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilva182&layout=compact)](https://github.com/lucasilva182/github-readme-stats)
 
 
 ### Tecnologias 

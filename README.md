@@ -14,9 +14,9 @@
 
 📤 Objetivos: <br />
 
-&nbsp;&nbsp;• Aprimorar minhas habilidades a cada dia;
+&nbsp;• Aprimorar minhas habilidades a cada dia;
 
-&nbsp;&nbsp;• Aprimorar em Desenvolvimento Back-end;
+&nbsp;• Aprimorar em Desenvolvimento Back-end;
 
 <br />
 

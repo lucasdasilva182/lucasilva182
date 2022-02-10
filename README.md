@@ -1,8 +1,6 @@
-### 👋 Olá, me chamo Lucas Silva! Sou **Front-end Developer**, com algumas habilidades em **UI.**
+👋 Olá, me chamo Lucas Silva! Sou **Front-end Developer**, com algumas habilidades em **UI.**
 <br />
 
-### Sobre mim
-<br />
  
 💻 HTML, CSS, Sass, JavaScript, Vue.js, ReactJS, Photoshop, Illustrator
 

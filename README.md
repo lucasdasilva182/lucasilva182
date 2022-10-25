@@ -1,4 +1,4 @@
-👋 HI, I'm Lucas Silva and I'm **Front-end Developer.**
+👋 Hi, my name is Lucas Silva and I'm **Front-end Developer.**
 <br />
 
  

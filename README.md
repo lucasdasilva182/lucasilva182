@@ -1,12 +1,10 @@
-👋 Olá, me chamo Lucas Silva! Sou **Front-end Developer**, com algumas habilidades em **UI.**
+👋 HI, I'm Lucas Silva and I'm **Front-end Developer.**
 <br />
 
  
-💻 HTML, CSS, Sass, JavaScript, Vue.js, ReactJS, Photoshop, Illustrator
+💻 HTML, CSS (Sass & Less), JavaScript, Vue.js
 
 🏡 São Paulo - Brazil
-
-📚 Sempre em busca de novos conhecimentos.
 
 <br />
 
@@ -19,4 +17,4 @@
 [![lucasilva182](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilva182&hide=html&layout=compact&theme=dark)](https://github.com/lucasilva182/)
 
 <br />
-- Obrigado pela visita! 👽
+- Thank you for coming! 👽

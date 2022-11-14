@@ -2,7 +2,7 @@
 <br />
 
  
-💻 HTML, CSS (Sass & Less), JavaScript, Vue.js
+💻 HTML, CSS (Sass & Less), JavaScript, Vue.js, React
 
 🏡 São Paulo - Brazil
 

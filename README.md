@@ -12,9 +12,6 @@
 [![Static Badge](https://img.shields.io/badge/My_Site-23a8f2)](https://www.lsilva.dev)
 <br /><br />
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasdasilva182&hide=prs,contribs&count_private=true&theme=dark&show_icons=true)](https://github.com/lucasdasilva182/)
-<br />
-
 [![lucasdasilva182](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdasilva182&hide=html&layout=compact&theme=dark)](https://github.com/lucasdasilva182/)
 
 <br />

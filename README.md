@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
+<h3 align="center">A full-stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Skopos Energia](https://skoposenergia.com.br/)
 
-- 🌱 I’m currently learning **back-end with NodeJS**
+- 🌱 I’m currently learning **Cloud**
 
-- 👨‍💻 All of my projects are available at [https://www.lsilva.dev/](https://www.lsilva.dev/)
+- 👨‍💻 All of my projects are available at [https://www.lsilva.dev/](https://cv.lsilva.dev/)
   
 <br /><br />
 
